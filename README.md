@@ -10,4 +10,4 @@ PythonとStreamlitの学習用に作成したWebアプリです。
 - データは独自にリライト・編集したものを使用しています。
 
 ---
-Created by [あなたの名前/アカウント名]
+Created by [tkg-seimei]
